@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+tools:showIn="navigation_view">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/today"
+        android:icon="@drawable/main_ic"
+        android:title="Vaistai šiandien" />
+</group>
+<!--
+@drawable/main_ic was downloaded from a royalty free website, Icon made by Freepik (https://www.flaticon.com/authors/freepik) from www.flaticon.com
+-->
+
+</menu>

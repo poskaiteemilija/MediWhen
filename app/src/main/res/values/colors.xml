@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dc7ff</color>
+    <color name="colorPrimaryDark">#3f7ab2</color>
+    <color name="colorAccent">#fdc974</color>
+    <color name="colorForTodayBar">#c3fa65</color>
+    <color name="transparentColor">#00FFFFFF</color>
+    <color name="white">#FFFFFF</color>color>
+</resources>
